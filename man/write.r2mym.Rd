@@ -22,7 +22,7 @@ write.r2mym(data, outputfile, value.var, MyM.vartype, MyM.varname,
 
 \item{time.dependent}{TRUE or FALSE, whether the variable is time dependent and the first column of data indicates the year}
 
-\item{sep.years}{what characters to print after each year. '\n' is added automatically (Default is ',')}
+\item{sep.years}{what characters to print after each year. '\\n' is added automatically (Default is ',')}
 
 \item{sep.data}{what characters to print after each regular number}
 
